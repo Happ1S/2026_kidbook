@@ -17,7 +17,7 @@
 <p align="center">
   <img src="../images/empathy_observed_pain.png" width="550">
   <br>
-  <em>Вася, я проявляю эмпатию</em>
+  <em>Проявляем эмпатию</em>
 </p>
 
 ---
