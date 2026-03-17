@@ -53,7 +53,7 @@
 Но при повторении связь усиливается.
 
 <p align="center">
-  <img src="../images/neuroplasticity_2.png" width="500"/><br>,
+  <img src="../images/neuroplasticity_2.png" width="800"/><br>,
 </p>
 
 ## Почему повторение так важно
