@@ -20,7 +20,7 @@
 | 🦸 Герои и злодеи | Дзюба М. | [Перейти](./articles/heroes_and_villains/) |
 | 👥 Создание игр | Андрюхин А. | [Перейти](./articles/dream_team/) |
 | 🎪 Игровая культура | Глебова М. | [Перейти](./articles/game_culture/) |
-| 💪 Здоровье и этикет | Карачарова А. | [Перейти](./articles/useful_tips/) |
+| 💪 Здоровье и этикет | Карачарова А. | [Перейти](./articles/gaming_health_project/) |
 
 ---
 
