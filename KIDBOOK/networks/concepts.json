@@ -40,5 +40,40 @@
     "description": "Электронный «паспорт» сайта, подтверждающий его подлинность; выдаётся удостоверяющим центром",
     "lemmas": ["сертификат", "SSL-сертификат", "удостоверяющий центр", "CA", "HTTPS"],
     "file": "networks/http_https/README.md"
+  },
+  {
+    "id": "networks/mac_address",
+    "name": "MAC-адрес",
+    "description": "Уникальный физический адрес сетевой карты, зашитый на заводе; используется внутри локальной сети",
+    "lemmas": ["MAC-адрес", "MAC", "физический адрес", "сетевая карта", "OUI"],
+    "file": "networks/ip_mac/README.md"
+  },
+  {
+    "id": "networks/ip_address",
+    "name": "IP-адрес",
+    "description": "Сетевой адрес устройства, выдаваемый при подключении; бывает IPv4 и IPv6",
+    "lemmas": ["IP-адрес", "IP", "IPv4", "IPv6", "адрес"],
+    "file": "networks/ip_mac/README.md"
+  },
+  {
+    "id": "networks/arp",
+    "name": "ARP",
+    "description": "Протокол разрешения адресов: позволяет узнать MAC-адрес устройства по его IP-адресу",
+    "lemmas": ["ARP", "ARP-запрос", "ARP-кэш", "разрешение адресов"],
+    "file": "networks/ip_mac/README.md"
+  },
+  {
+    "id": "networks/dhcp",
+    "name": "DHCP",
+    "description": "Протокол автоматической выдачи IP-адресов устройствам при подключении к сети",
+    "lemmas": ["DHCP", "динамический адрес", "выдача адреса"],
+    "file": "networks/ip_mac/README.md"
+  },
+  {
+    "id": "networks/nat",
+    "name": "NAT",
+    "description": "Трансляция сетевых адресов: позволяет многим устройствам выходить в интернет через один публичный IP",
+    "lemmas": ["NAT", "трансляция адресов", "приватный адрес", "публичный адрес"],
+    "file": "networks/ip_mac/README.md"
   }
 ]
