@@ -1,0 +1,114 @@
+{
+  "section": "science",
+  "description": "Раздел «Почему наука помогает понимать мир» — детская энциклопедия KidBook",
+  "concepts": [
+    {
+      "id": "nature",
+      "ru": "Природа",
+      "wikidata": "Q7860",
+      "file": "WEB/science/nature.md"
+    },
+    {
+      "id": "patterns",
+      "ru": "Закономерности в природе",
+      "wikidata": "Q3455898",
+      "file": "WEB/science/patterns.md"
+    },
+    {
+      "id": "organism",
+      "ru": "Организм",
+      "wikidata": "Q7239",
+      "file": "WEB/science/organism.md"
+    },
+    {
+      "id": "science",
+      "ru": "Наука",
+      "wikidata": "Q336",
+      "file": "WEB/science/science.md"
+    },
+    {
+      "id": "natural_sciences",
+      "ru": "Естественные науки",
+      "wikidata": "Q7991",
+      "file": "WEB/science/natural_sciences.md"
+    },
+    {
+      "id": "experimental_science",
+      "ru": "Экспериментальная наука",
+      "wikidata": "Q5769081",
+      "file": "WEB/science/experimental_science.md"
+    },
+    {
+      "id": "physical_science",
+      "ru": "Физическая наука",
+      "wikidata": "Q14632398",
+      "file": "WEB/science/physical_science.md"
+    },
+    {
+      "id": "physics",
+      "ru": "Физика",
+      "wikidata": "Q413",
+      "file": "WEB/science/physics.md"
+    },
+    {
+      "id": "chemistry",
+      "ru": "Химия",
+      "wikidata": "Q2329",
+      "file": "WEB/science/chemistry.md"
+    },
+    {
+      "id": "earth_sciences",
+      "ru": "Науки о Земле",
+      "wikidata": "Q8008",
+      "file": "WEB/science/earth_sciences.md"
+    },
+    {
+      "id": "environmental_sciences",
+      "ru": "Науки об окружающей среде",
+      "wikidata": "Q188847",
+      "file": "WEB/science/environmental_sciences.md"
+    },
+    {
+      "id": "life_sciences",
+      "ru": "Науки о жизни",
+      "wikidata": "Q864928",
+      "file": "WEB/science/life_sciences.md"
+    },
+    {
+      "id": "biology",
+      "ru": "Биология",
+      "wikidata": "Q420",
+      "file": "WEB/science/biology.md"
+    },
+    {
+      "id": "space_sciences",
+      "ru": "Космические науки",
+      "wikidata": "Q1195766",
+      "file": "WEB/science/space_sciences.md"
+    },
+    {
+      "id": "scientific_method",
+      "ru": "Научный метод",
+      "wikidata": "Q46857",
+      "file": "WEB/science/scientific_method.md"
+    },
+    {
+      "id": "experiment",
+      "ru": "Эксперимент",
+      "wikidata": "Q101965",
+      "file": "WEB/science/experiment.md"
+    },
+    {
+      "id": "research",
+      "ru": "Исследование",
+      "wikidata": "Q42240",
+      "file": "WEB/science/research.md"
+    },
+    {
+      "id": "research_work",
+      "ru": "Исследовательская работа",
+      "wikidata": "Q118563234",
+      "file": "WEB/science/research_work.md"
+    }
+  ]
+}
