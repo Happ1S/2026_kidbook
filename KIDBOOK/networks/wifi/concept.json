@@ -28,12 +28,6 @@
                 ],
                 "file": "KIDBOOK/network/wifi-basics/README.md",
                 "wikidata_id": "Q29643",
-                "related_wikidata": [
-                    "Q11399",
-                    "Q12774",
-                    "Q11388",
-                    "Q192924"
-                ],
                 "author": "bityamitya"
             },
             {
@@ -55,11 +49,6 @@
                 ],
                 "file": "KIDBOOK/network/wifi-basics/router.md",
                 "wikidata_id": "Q14925",
-                "related_wikidata": [
-                    "Q170586",
-                    "Q431187",
-                    "Q79717"
-                ],
                 "author": "bityamitya"
             },
             {
@@ -79,10 +68,6 @@
                 ],
                 "file": "KIDBOOK/network/wifi-basics/radio.md",
                 "wikidata_id": "Q703444",
-                "related_wikidata": [
-                    "Q383833",
-                    "Q1472392"
-                ],
                 "author": "bityamitya"
             },
             {
@@ -102,11 +87,6 @@
                 ],
                 "file": "KIDBOOK/network/wifi-basics/mobile.md",
                 "wikidata_id": "Q18356973",
-                "related_wikidata": [
-                    "Q79684",
-                    "Q131335",
-                    "Q3240212"
-                ],
                 "author": "bityamitya"
             },
             {
@@ -127,11 +107,6 @@
                 ],
                 "file": "KIDBOOK/network/wifi-basics/security.md",
                 "wikidata_id": "Q1139447",
-                "related_wikidata": [
-                    "Q1323602",
-                    "Q1056345",
-                    "Q815254"
-                ],
                 "author": "bityamitya"
             }
         ]
