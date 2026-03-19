@@ -191,12 +191,12 @@ graph TD
     A28 -.->|когнитивные ошибки| A25
 
     %% ---------------- Стили ----------------
-    classDef base fill:#e3f2fd,stroke:#1976d2,stroke-width:1.5px
-    classDef body fill:#e8f5e9,stroke:#388e3c,stroke-width:1.5px
-    classDef emotion fill:#fce4ec,stroke:#c2185b,stroke-width:1.5px
-    classDef memory fill:#fff3e0,stroke:#f57c00,stroke-width:1.5px
-    classDef bugs fill:#f3e5f5,stroke:#7b1fa2,stroke-width:1.5px
-    classDef root fill:#fff9c4,stroke:#f9a825,stroke-width:2px
+    classDef base fill:none,stroke:#1976d2,stroke-width:1.5px
+    classDef body fill:none,stroke:#388e3c,stroke-width:1.5px
+    classDef emotion fill:none,stroke:#c2185b,stroke-width:1.5px
+    classDef memory fill:none,stroke:#f57c00,stroke-width:1.5px
+    classDef bugs fill:none,stroke:#7b1fa2,stroke-width:1.5px
+    classDef root fill:none,stroke:#f9a825,stroke-width:2px
 
     class ROOT,B1,B2,B3,B4,B5 root
     class A01,A02,A03,A04,A05,A06 base
@@ -204,6 +204,12 @@ graph TD
     class A14,A15,A16,A17,A18,A19,A20 emotion
     class A21,A22,A23,A24 memory
     class A25,A26,A27,A28 bugs
+
+    style BLOCK1 fill:transparent,stroke:#ccc
+    style BLOCK2 fill:transparent,stroke:#ccc
+    style BLOCK3 fill:transparent,stroke:#ccc
+    style BLOCK4 fill:transparent,stroke:#ccc
+    style BLOCK5 fill:transparent,stroke:#ccc
 ```
 
 ---
