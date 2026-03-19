@@ -11,39 +11,39 @@
   ],
   "concepts": [
     {
-      "id": "5.2_cybersecurity/cpp_fundamentals/???",
+      "id": "5.2_cybersecurity/cpp_fundamentals/introduction",
       "name": "Введение в C++: Твой первый код",
       "description": "Узнаем историю одного из самых мощных языков в мире, настроим компьютер для работы и заставим его поздороваться с миром с помощью команды Hello World.",
       "lemmas": ["язык", "компилятор", "код", "программирование"],
-      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/???.md",
-      "wikidata_id": "???",
+      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/1_introduction.md",
+      "wikidata_id": "Q2407",
       "author": "Руслан Юнусов"
     },
     {
-      "id": "5.2_cybersecurity/cpp_fundamentals/???",
+      "id": "5.2_cybersecurity/cpp_fundamentals/syntax",
       "name": "Структура программы: Из чего состоит код",
       "description": "Разбираем скелет программы: зачем нужны заголовочные файлы, что такое главная функция main и зачем в конце каждой мысли ставить точку с запятой.",
       "lemmas": ["main", "директива", "синтаксис", "блок"],
-      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/???.md",
-      "wikidata_id": "???",
+      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/2_syntax.md",
+      "wikidata_id": "Q7248435",
       "author": "Руслан Юнусов"
     },
     {
-      "id": "5.2_cybersecurity/cpp_fundamentals/???",
+      "id": "5.2_cybersecurity/cpp_fundamentals/variables",
       "name": "Переменные и типы данных: Коробочки для памяти",
       "description": "Представь, что память — это склад с коробками. Учимся подбирать правильные коробки для целых чисел, букв и дробных чисел.",
       "lemmas": ["int", "double", "char", "bool", "переменная"],
-      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/???.md",
-      "wikidata_id": "???",
+      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/3_variables.md",
+      "wikidata_id": "Q190087",
       "author": "Руслан Юнусов"
     },
     {
-      "id": "5.2_cybersecurity/cpp_fundamentals/???",
+      "id": "5.2_cybersecurity/cpp_fundamentals/io",
       "name": "Ввод и вывод данных: Общение с компьютером",
       "description": "Учим компьютер слушать нас через клавиатуру и отвечать нам на экране с помощью команд cin и cout.",
       "lemmas": ["iostream", "cin", "cout", "поток"],
-      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/???.md",
-      "wikidata_id": "???",
+      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/4_io.md",
+      "wikidata_id": "Q105599763",
       "author": "Велиев Рауф"
     },
     {
