@@ -11,60 +11,43 @@
   ],
   "concepts": [
     {
-      "id": "5.2_cybersecurity/cpp_fundamentals/???",
+      "id": "5.2_cybersecurity/cpp_fundamentals/introduction",
       "name": "Введение в C++: Твой первый код",
       "description": "Узнаем историю одного из самых мощных языков в мире, настроим компьютер для работы и заставим его поздороваться с миром с помощью команды Hello World.",
-      "lemmas": [
-        "язык",
-        "компилятор",
-        "код",
-        "программирование"
-      ],
-      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/???.md",
-      "wikidata_id": "???",
+      "lemmas": ["язык", "компилятор", "код", "программирование"],
+      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/1_introduction.md",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_1_introduction.png",
+      "wikidata_id": "Q2407",
       "author": "Руслан Юнусов"
     },
     {
-      "id": "5.2_cybersecurity/cpp_fundamentals/???",
+      "id": "5.2_cybersecurity/cpp_fundamentals/syntax",
       "name": "Структура программы: Из чего состоит код",
       "description": "Разбираем скелет программы: зачем нужны заголовочные файлы, что такое главная функция main и зачем в конце каждой мысли ставить точку с запятой.",
-      "lemmas": [
-        "main",
-        "директива",
-        "синтаксис",
-        "блок"
-      ],
-      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/???.md",
-      "wikidata_id": "???",
+      "lemmas": ["main", "директива", "синтаксис", "блок"],
+      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/2_syntax.md",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_2_syntax.png",
+      "wikidata_id": "Q7248435",
       "author": "Руслан Юнусов"
     },
     {
-      "id": "5.2_cybersecurity/cpp_fundamentals/???",
+      "id": "5.2_cybersecurity/cpp_fundamentals/variables",
       "name": "Переменные и типы данных: Коробочки для памяти",
       "description": "Представь, что память — это склад с коробками. Учимся подбирать правильные коробки для целых чисел, букв и дробных чисел.",
-      "lemmas": [
-        "int",
-        "double",
-        "char",
-        "bool",
-        "переменная"
-      ],
-      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/???.md",
-      "wikidata_id": "???",
+      "lemmas": ["int", "double", "char", "bool", "переменная"],
+      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/3_variables.md",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_3_variables.png",
+      "wikidata_id": "Q190087",
       "author": "Руслан Юнусов"
     },
     {
-      "id": "5.2_cybersecurity/cpp_fundamentals/???",
+      "id": "5.2_cybersecurity/cpp_fundamentals/io",
       "name": "Ввод и вывод данных: Общение с компьютером",
       "description": "Учим компьютер слушать нас через клавиатуру и отвечать нам на экране с помощью команд cin и cout.",
-      "lemmas": [
-        "iostream",
-        "cin",
-        "cout",
-        "поток"
-      ],
-      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/???.md",
-      "wikidata_id": "???",
+      "lemmas": ["iostream", "cin", "cout", "поток"],
+      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/4_io.md",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_4_io.png",
+      "wikidata_id": "Q105599763",
       "author": "Велиев Рауф"
     },
     {
@@ -78,7 +61,7 @@
         "инкремент"
       ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/5_operators.md",
-      "wikidata_id": "???",
+      "wikidata_id": "Q1078424",
       "author": "Иван Леу"
     },
     {
@@ -122,7 +105,7 @@
         "модульность"
       ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/8_functions.md",
-      "wikidata_id": "???",
+      "wikidata_id": "Q15810910",
       "author": "Иван Леу"
     },
     {
@@ -136,7 +119,7 @@
         "static"
       ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/9_scopes.md",
-      "wikidata_id": "???",
+      "wikidata_id": "Q2407",
       "author": "Иван Леу"
     },
     {

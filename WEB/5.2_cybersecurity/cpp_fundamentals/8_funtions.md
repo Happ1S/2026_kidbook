@@ -206,5 +206,5 @@ int calculateDamage(int attack, int defense) {
 [Вернуться к оглавлению](./article_index_information_media_literacy.md)
 
 ---
-Авторы: Иван Леу, Руслан Юнусов, Егор Кривошапкин, Егор Тарасов, Рауф Велиев;  
+Авторы: Иван Леу;  
 *Ресурсы: LLM - Gemini*
