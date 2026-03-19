@@ -31,7 +31,7 @@
       ],
       "name": "Мозг — самый сложный объект во Вселенной?",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/01_brain_complexity.md",
-      "wikidata_id": "Q1073",
+      "wikidata_id": "Q6901",
       "author": "Кунавин Кирилл"
     },
     {
@@ -55,7 +55,7 @@
       ],
       "name": "Нейрон — главная клетка мозга",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/02_neuron_main_cell.md",
-      "wikidata_id": "Q43054",
+      "wikidata_id": "Q6902",
       "author": "Кунавин Кирилл"
     },
     {
@@ -79,7 +79,7 @@
       ],
       "name": "Карта нервной системы",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/03_nervous_system_map.md",
-      "wikidata_id": "Q83087",
+      "wikidata_id": "Q6903",
       "author": "Кунавин Кирилл"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "name": "Главные отделы мозга: кто за что отвечает",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/04_main_parts_of_the_brain.md",
-      "wikidata_id": "Q1073",
+      "wikidata_id": "Q6904",
       "author": "Кунавин Кирилл"
     },
     {
@@ -127,7 +127,7 @@
       ],
       "name": "Мозг подростка",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/05_teen_brain.md",
-      "wikidata_id": "Q1073",
+      "wikidata_id": "Q6905",
       "author": "Кунавин Кирилл"
     },
     {
@@ -151,7 +151,7 @@
       ],
       "name": "Как один железный прут изменил личность человека",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/06_phineas_gage.md",
-      "wikidata_id": "Q356844",
+      "wikidata_id": "Q6906",
       "author": "Кунавин Кирилл"
     },
     {
@@ -174,7 +174,7 @@
       ],
       "name": "Стресс: древняя система выживания",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/07_stress.md",
-      "wikidata_id": "Q12078",
+      "wikidata_id": "Q6907",
       "author": "Скрипов Максим"
     },
     {
@@ -196,7 +196,7 @@
       ],
       "name": "Кто включает чувство голода",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/08_hunger.md",
-      "wikidata_id": "Q165947",
+      "wikidata_id": "Q6908",
       "author": "Скрипов Максим"
     },
     {
@@ -219,7 +219,7 @@
       ],
       "name": "Зачем нам нужен сон",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/09_sleep.md",
-      "wikidata_id": "Q7405",
+      "wikidata_id": "Q6909",
       "author": "Скрипов Максим"
     },
     {
@@ -241,7 +241,7 @@
       ],
       "name": "Почему мы так любим сладкое",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/10_sweet_tooth.md",
-      "wikidata_id": "Q37525",
+      "wikidata_id": "Q6910",
       "author": "Скрипов Максим"
     },
     {
@@ -264,7 +264,7 @@
       ],
       "name": "Система вознаграждения",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/11_reward_system.md",
-      "wikidata_id": "Q1755984",
+      "wikidata_id": "Q6911",
       "author": "Скрипов Максим"
     },
     {
@@ -286,7 +286,7 @@
       ],
       "name": "Почему мозг ленится",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/12_lazy_brain.md",
-      "wikidata_id": "Q846227",
+      "wikidata_id": "Q6912",
       "author": "Скрипов Максим"
     },
     {
@@ -309,7 +309,7 @@
       ],
       "name": "Как никотин обманывает мозг",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/13_nicotine.md",
-      "wikidata_id": "Q21090",
+      "wikidata_id": "Q6913",
       "author": "Скрипов Максим"
     },
     {
@@ -531,6 +531,75 @@
     "author": "Арусланов Кирилл"
     },
     {
+      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/21_how_memory_works",
+      "description": "О том, как устроена память: различия между кратковременной и долговременной памятью, как происходит консолидация воспоминаний, почему мы забываем и какую роль играют сон и эмоции в запоминании.",
+      "lemmas": [
+        "память",
+        "кратковременная память",
+        "долговременная память",
+        "консолидация памяти",
+        "запоминание",
+        "забывание",
+        "сон и память",
+        "обучение",
+        "воспоминания",
+        "нейронные связи",
+        "переработка информации",
+        "мозг",
+        "эмоции и память"
+      ],
+      "name": "Устройство памяти — как мозг хранит воспоминания",
+      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/21_how_memory_works.md",
+      "wikidata_id": "Q6921",
+      "author": "Савинов Никита"
+    },
+    {
+      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/22_neuroplasticity.md",
+      "description": "Способность мозга изменяться, формируя и перестраивая нейронные связи в процессе обучения и опыта.",
+      "lemmas": [
+        "нейропластичность",
+        "пластичность мозга",
+        "нейронные связи",
+        "обучение мозг",
+        "синапсы",
+        "нейроны"
+      ],
+      "name": "Нейропластичность",
+      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/22_neuroplasticity.md",
+      "wikidata_id": "Q6922",
+      "author": "Савинов Никита"
+    },
+    {
+      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/23_hippocampus.md",
+      "description": "Структура мозга, участвующая в формировании памяти и ориентации в пространстве.",
+      "lemmas": [
+        "гиппокамп",
+        "память мозг",
+        "пространственная память",
+        "навигация мозг",
+        "клетки места"
+      ],
+      "name": "Гиппокамп",
+      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/23_hippocampus.md",
+      "wikidata_id": "Q6923",
+      "author": "Савинов Никита"
+    },
+    {
+      "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/24_forgetting_curve.md",
+      "description": "Модель, показывающая, как быстро информация забывается без повторения, и как интервальное повторение помогает её сохранить.",
+      "lemmas": [
+        "кривая забывания",
+        "интервальное повторение",
+        "запоминание",
+        "обучение память",
+        "повторение материал"
+      ],
+      "name": "Кривая забывания",
+      "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/24_forgetting_curve.md",
+      "wikidata_id": "Q6924",
+      "author": "Савинов Никита"
+    },
+    {
       "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/25_cognitive_biases",
       "description": "Статья о когнитивных искажениях: почему мозг систематически ошибается, как работают эвристики, примеры искажений (эффект подтверждения, эффект якоря, эффект толпы, иллюзия контроля) и почему знание об этом помогает мыслить критически.",
       "lemmas": [
@@ -548,7 +617,7 @@
       ],
       "name": "Почему мозг иногда нас обманывает",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/25_cognitive_biases.md",
-      "wikidata_id": "Q18570",
+      "wikidata_id": "Q6925",
       "author": "Флоря Юлия"
     },
     {
@@ -570,7 +639,7 @@
       ],
       "name": "Зрительные иллюзии: когда глаза видят одно, а мозг другое",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/26_optical_illusions.md",
-      "wikidata_id": "Q837753",
+      "wikidata_id": "Q6926",
       "author": "Флоря Юлия"
     },
     {
@@ -591,7 +660,7 @@
       ],
       "name": "Почему мозг достраивает реальность",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/27_brain_predicts.md",
-      "wikidata_id": "Q1073",
+      "wikidata_id": "Q6927",
       "author": "Флоря Юлия"
     },
     {
@@ -613,77 +682,8 @@
       ],
       "name": "Ложные воспоминания",
       "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/28_false_memories.md",
-      "wikidata_id": "Q1412721",
+      "wikidata_id": "Q6928",
       "author": "Флоря Юлия"
     }
   ]
-}
-{
-  "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/21_how_memory_works",
-  "description": "О том, как устроена память: различия между кратковременной и долговременной памятью, как происходит консолидация воспоминаний, почему мы забываем и какую роль играют сон и эмоции в запоминании.",
-  "lemmas": [
-    "память",
-    "кратковременная память",
-    "долговременная память",
-    "консолидация памяти",
-    "запоминание",
-    "забывание",
-    "сон и память",
-    "обучение",
-    "воспоминания",
-    "нейронные связи",
-    "переработка информации",
-    "мозг",
-    "эмоции и память"
-  ],
-  "name": "Устройство памяти — как мозг хранит воспоминания",
-  "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/21_how_memory_works.md",
-  "wikidata_id": "Q8358",
-  "author": "Савинов Никита"
-}
-{
-  "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/22_neuroplasticity.md",
-  "description": "Способность мозга изменяться, формируя и перестраивая нейронные связи в процессе обучения и опыта.",
-  "lemmas": [
-    "нейропластичность",
-    "пластичность мозга",
-    "нейронные связи",
-    "обучение мозг",
-    "синапсы",
-    "нейроны"
-  ],
-  "name": "Нейропластичность",
-  "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/22_neuroplasticity.md",
-  "wikidata_id": "Q189118",
-  "author": "Савинов Никита"
-}
-{
-  "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/23_hippocampus.md",
-  "description": "Структура мозга, участвующая в формировании памяти и ориентации в пространстве.",
-  "lemmas": [
-    "гиппокамп",
-    "память мозг",
-    "пространственная память",
-    "навигация мозг",
-    "клетки места"
-  ],
-  "name": "Гиппокамп",
-  "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/23_hippocampus.md",
-  "wikidata_id": "Q48360",
-  "author": "Савинов Никита"
-}
-{
-  "id": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/24_forgetting_curve.md",
-  "description": "Модель, показывающая, как быстро информация забывается без повторения, и как интервальное повторение помогает её сохранить.",
-  "lemmas": [
-    "кривая забывания",
-    "интервальное повторение",
-    "запоминание",
-    "обучение память",
-    "повторение материал"
-  ],
-  "name": "Кривая забывания",
-  "file": "WEB/1.2_natural_sciences_in_life/neurobiology_for_teens/articles/24_forgetting_curve.md",
-  "wikidata_id": "Q843231",
-  "author": "Савинов Никита"
 }
