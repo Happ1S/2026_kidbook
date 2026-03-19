@@ -221,5 +221,55 @@
     ],
     "file": "networks/http_https/cookies.md",
     "wikidata_id": "Q483326"
+  },
+  {
+    "id": "networks/dns",
+    "name": "DNS",
+    "description": "Система доменных имён — глобальная 'телефонная книга' интернета, переводящая доменные имена в IP-адреса",
+    "lemmas": ["DNS", "система доменных имён", "доменное имя", "резолвер", "корневой сервер", "авторитативный сервер", "TTL", "кеш DNS"],
+    "file": "networks/dns/dns.md",
+    "wikidata_id": "Q8767"
+  },
+  {
+    "id": "networks/domain",
+    "name": "Домен",
+    "description": "Уникальное имя сайта в интернете, арендуемое у регистратора; связывает понятный адрес с IP-адресом сервера",
+    "lemmas": ["домен", "доменное имя", "поддомен", "субдомен", "TLD", "зона", "регистратор", "WHOIS", "NS-запись"],
+    "file": "networks/dns/domains.md"
+  },
+  {
+    "id": "networks/tld",
+    "name": "Домен верхнего уровня (TLD)",
+    "description": "Последняя часть доменного имени (.ru, .com, .org), указывающая на страну или тип организации",
+    "lemmas": ["TLD", "домен верхнего уровня", ".ru", ".com", ".org", "зона", "gTLD"],
+    "file": "networks/dns/domains.md"
+  },
+  {
+    "id": "networks/dns_record",
+    "name": "DNS-запись",
+    "description": "Запись в базе DNS, связывающая домен с адресом или другой информацией (A, AAAA, CNAME, MX, TXT)",
+    "lemmas": ["DNS-запись", "A-запись", "AAAA", "CNAME", "MX", "TXT", "запись DNS"],
+    "file": "networks/dns/dns.md"
+  },
+  {
+    "id": "networks/icann",
+    "name": "ICANN",
+    "description": "Организация, управляющая корневыми DNS-серверами и распределением доменных зон верхнего уровня",
+    "lemmas": ["ICANN", "регистратор", "корневой сервер"],
+    "file": "networks/dns/dns.md"
+  },
+  {
+    "id": "networks/cdn",
+    "name": "CDN",
+    "description": "Сеть доставки контента — группа серверов по всему миру, хранящих копии файлов сайта для быстрой отдачи пользователям",
+    "lemmas": ["CDN", "сеть доставки контента", "Edge-сервер", "Origin", "кеш", "latency", "задержка", "Cloudflare", "Akamai"],
+    "file": "networks/dns/cdn.md"
+  },
+  {
+    "id": "networks/ddos",
+    "name": "DDoS-атака",
+    "description": "Атака на сервер лавиной мусорных запросов с целью вывести его из строя",
+    "lemmas": ["DDoS", "DDoS-атака", "атака", "трафик", "защита"],
+    "file": "networks/dns/cdn.md"
   }
 ]
