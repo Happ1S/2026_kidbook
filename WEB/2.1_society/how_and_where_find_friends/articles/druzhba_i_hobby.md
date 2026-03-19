@@ -74,6 +74,5 @@
 ---
 
 **Автор:** Irina Timofeeva  
-**Ответственный:** Irina Timofeeva (Irina Timofeeva)
 
 *Использованы нейронные сети: DeepSeek, ChatGPT*
