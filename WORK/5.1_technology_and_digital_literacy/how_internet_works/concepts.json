@@ -459,7 +459,7 @@
       "description": "Content Delivery Network — сеть серверов по всему миру, которая отдаёт контент с ближайшего к пользователю узла",
       "lemmas": ["CDN", "сеть доставки контента", "Cloudflare", "Akamai", "кеширование контента"],
       "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/server.md",
-      "wikidata_id": "Q110562",
+      "wikidata_id": "Q72588",
       "author": "Григорян Арсений"
     },
     {
@@ -477,7 +477,7 @@
       "description": "Обзорная статья: полный путь запроса от ввода URL до отображения страницы — DNS, TCP, HTTP, рендеринг",
       "lemmas": ["открыть сайт", "URL", "путь запроса", "как работает интернет", "что происходит"],
       "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/what_happens.md",
-      "wikidata_id": "Q41235",
+      "wikidata_id": "Q35127",
       "author": "Григорян Арсений"
     },
     {
@@ -504,7 +504,7 @@
       "description": "Компонент браузера, который превращает HTML и CSS в изображение на экране; примеры: Blink, WebKit, Gecko",
       "lemmas": ["движок рендеринга", "рендеринг", "Blink", "WebKit", "Gecko", "DOM", "CSSOM", "layout", "paint"],
       "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/browser.md",
-      "wikidata_id": "Q1044928",
+      "wikidata_id": "Q373442",
       "author": "Григорян Арсений"
     },
     {
@@ -513,7 +513,7 @@
       "description": "Document Object Model — дерево элементов веб-страницы, которое строит браузер из HTML-кода",
       "lemmas": ["DOM", "Document Object Model", "дерево элементов", "дерево документа"],
       "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/browser.md",
-      "wikidata_id": "Q215648",
+      "wikidata_id": "Q2093",
       "author": "Григорян Арсений"
     },
     {
@@ -522,7 +522,7 @@
       "description": "Компонент браузера, который исполняет JavaScript-код; самый известный — V8 от Google",
       "lemmas": ["JavaScript-движок", "V8", "SpiderMonkey", "JavaScriptCore", "JS-движок"],
       "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/browser.md",
-      "wikidata_id": "Q2013",
+      "wikidata_id": "Q591919",
       "author": "Григорян Арсений"
     },
     {
@@ -531,7 +531,7 @@
       "description": "Программа или компьютер, принимающий HTTP-запросы и отдающий страницы браузеру; примеры: Nginx, Apache",
       "lemmas": ["веб-сервер", "сервер", "Nginx", "Apache", "HTTP-сервер", "хостинг"],
       "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/server.md",
-      "wikidata_id": "Q11402869",
+      "wikidata_id": "Q11288",
       "author": "Григорян Арсений"
     },
     {
@@ -540,7 +540,7 @@
       "description": "Специализированное здание для размещения серверов с бесперебойным питанием, охлаждением и охраной",
       "lemmas": ["дата-центр", "ЦОД", "data center", "серверная", "серверная стойка"],
       "file": "WEB/5.1_technology_and_digital_literacy/how_internet_works/articles/web_basics/server.md",
-      "wikidata_id": "Q190581",
+      "wikidata_id": "Q671224",
       "author": "Григорян Арсений"
     }
   ]
