@@ -152,9 +152,9 @@ sequenceDiagram
 
 ## См. также
 
-* [[operating_system|Операционная система]] 
-* [[memory_management|Управление памятью]] 
-* [[HAL|Слой аппаратных абстракций]]
+* [Операционная система](operating_system.md)
+* [Управление памятью](memory_management.md)
+* [Слой аппаратных абстракций](HAL.md)
 
 ---
 
