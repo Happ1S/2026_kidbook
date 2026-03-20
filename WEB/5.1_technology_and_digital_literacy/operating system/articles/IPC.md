@@ -195,3 +195,8 @@ flowchart LR
 
 *   [[process|Процесс как единица выполнения]]
 *   [Сетевой стек](network_stack.md)
+
+---
+
+**Автор**: [Воронухин Никита](https://github.com/DeZtrOiD)
+**LLM - Deepseek**
