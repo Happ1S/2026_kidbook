@@ -94,8 +94,8 @@
 
 ## Читай также из других разделов
 
-- [Экономические цепочки](../../../../2.1_society/cause_and_effect_relationships/articles/economic_chains.md) — раздел 2.1 «Общество»
-- [Работа с данными и статистикой](../../../../4.2/critical_thinking/articles/data_and_statistics.md) — раздел 4.2 «Критическое мышление»
+- [Экономические цепочки](../../../2.1_society/cause_and_effect_relationships/articles/economic_chains.md) — раздел 2.1 «Общество»
+- [Работа с данными и статистикой](../../../4.2_thinking_and_working_information/critical_thinking/articles/data_and_statistics.md) — раздел 4.2 «Критическое мышление»
 
 ---
 Автор: Команда «Как копить на цель»
