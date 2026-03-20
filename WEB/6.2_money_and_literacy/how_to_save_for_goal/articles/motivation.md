@@ -99,7 +99,7 @@
 ## Читай также из других разделов
 
 - [Как не бросить хобби через неделю](../../../7.2%20Media,%20leisure%20and%20hobbies/Computer%20games/useful_and_interesting_leisure/articles/how_not_to_quit_hobby.md) — раздел 7.2 «Досуг»
-- [Мотивация и память](../../../../how_to_memorize/articles/motivaciya.md) — раздел «Как запоминать»
+- [Мотивация и память](../../../4.1_rules_of_study/how_to_memorize/articles/motivaciya.md) — раздел «Как запоминать»
 
 ---
 Автор: Команда «Как копить на цель»
