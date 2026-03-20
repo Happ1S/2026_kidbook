@@ -106,6 +106,13 @@
 *Похожие темы: [SMART-цели](smart_goal.md) | [Бюджет](budget.md) | [Мотивация](motivation.md) | [Сбережения](saving.md)*
 
 ---
+
+## Читай также из других разделов
+
+- [Проектирование будущего](../../../../2.1_society/cause_and_effect_relationships/articles/future_planning.md) — раздел 2.1 «Общество»
+- [Идеальный распорядок дня и управление энергией](../../../../3.1_healthy%20lifestyle/Sleep%2C%20nutrition%2C%20and%20adolescent%20energy/articles/ideal_schedule_energy_management.md) — раздел 3.1 «Здоровье»
+
+---
 Автор: Команда «Как копить на цель»
 
 *Использованные нейросети: Claude (Anthropic) для генерации текста*

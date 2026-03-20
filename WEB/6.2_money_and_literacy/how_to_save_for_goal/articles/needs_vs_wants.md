@@ -102,6 +102,13 @@
 *Похожие темы: [Расходы](expenses.md) | [Бюджет](budget.md) | [Финансовая грамотность](financial_literacy.md) | [Мотивация](motivation.md)*
 
 ---
+
+## Читай также из других разделов
+
+- [Выбор и его плоды](../../../../2.1_society/cause_and_effect_relationships/articles/personal_choice.md) — раздел 2.1 «Общество»
+- [Влияние эмоций на мышление](../../../../4.2/critical_thinking/articles/influence_of_emotions.md) — раздел 4.2 «Критическое мышление»
+
+---
 Автор: Команда «Как копить на цель»
 
 *Использованные нейросети: Claude (Anthropic) для генерации текста*

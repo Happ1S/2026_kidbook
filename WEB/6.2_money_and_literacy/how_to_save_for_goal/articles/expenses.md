@@ -85,6 +85,13 @@
 *Похожие темы: [Доходы](income.md) | [Бюджет](budget.md) | [Потребности и желания](needs_vs_wants.md) | [Финансовый план](planning.md)*
 
 ---
+
+## Читай также из других разделов
+
+- [Чем полезный досуг отличается от бесполезного](../../../../7.2_leisure/useful_and_interesting_leisure/articles/useful_vs_useless_leisure.md) — раздел 7.2 «Досуг»
+- [Эмоциональные триггеры в контенте](../../../../5.1_technology_and_digital_literacy/information%20and%20media%20literacy/articles/эмоциональные_триггеры_в_контенте.md) — раздел 5.1 «Медиаграмотность»
+
+---
 Автор: Команда «Как копить на цель»
 
 *Использованные нейросети: Claude (Anthropic) для генерации текста*

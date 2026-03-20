@@ -92,6 +92,13 @@
 *Похожие темы: [Доходы](income.md) | [Бюджет](budget.md) | [Копилка](piggy_bank.md) | [Финансовая грамотность](financial_literacy.md)*
 
 ---
+
+## Читай также из других разделов
+
+- [Досуг, который не требует денег](../../../../7.2_leisure/useful_and_interesting_leisure/articles/free_leisure_activities.md) — раздел 7.2 «Досуг»
+- [Волонтёрство и помощь другим](../../../../7.2_leisure/useful_and_interesting_leisure/articles/volunteering_and_helping_others.md) — раздел 7.2 «Досуг»
+
+---
 Автор: Команда «Как копить на цель»
 
 *Использованные нейросети: Claude (Anthropic) для генерации текста*

@@ -95,6 +95,13 @@
 *Похожие темы: [Цель](goal.md) | [SMART-цели](smart_goal.md) | [Финансовый план](planning.md) | [Копилка](piggy_bank.md)*
 
 ---
+
+## Читай также из других разделов
+
+- [Как не бросить хобби через неделю](../../../../7.2_leisure/useful_and_interesting_leisure/articles/how_not_to_quit_hobby.md) — раздел 7.2 «Досуг»
+- [Мотивация и память](../../../../how_to_memorize/articles/motivaciya.md) — раздел «Как запоминать»
+
+---
 Автор: Команда «Как копить на цель»
 
 *Использованные нейросети: Claude (Anthropic) для генерации текста*
