@@ -1,6 +1,15 @@
-{
-  "section": "3.1. healthy lifestyle",
+[{
+  "section": "3.1_healthy lifestyle",
   "topic": "Вредные привычки",
+  "author_group": "Команда 777",
+  "members": [
+    "Гуляев Антон",
+    "Дмитрий Марьин",
+    "Воробьев Глеб",
+    "Аксельрод Анастасия",
+    "Мустафаев Алим",
+    "Пономарев Артем"
+  ],
   "concepts": [
     {
       "id": "3.1_healthy_lifestyle/vrednye_privychki/smoking",
@@ -183,4 +192,4 @@
       "article_llm": "Claude (Anthropic)"
     }
   ]
-}
+}]
