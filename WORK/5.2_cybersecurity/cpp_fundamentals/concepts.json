@@ -82,6 +82,7 @@
         "инкремент"
       ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/5_operators.md",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_5_operators.png",
       "wikidata_id": "Q1078424",
       "author": "Иван Леу"
     },
@@ -126,6 +127,7 @@
         "модульность"
       ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/8_functions.md",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_8_functions.png",
       "wikidata_id": "Q15810910",
       "author": "Иван Леу"
     },
@@ -140,6 +142,7 @@
         "static"
       ],
       "file": "WEB/5.2_cybersecurity/cpp_fundamentals/9_scopes.md",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_9_scopes.png",
       "wikidata_id": "Q2407",
       "author": "Иван Леу"
     },
@@ -198,8 +201,8 @@
       "name": "Динамическая память: Гибкий склад",
       "description": "Узнаем, как запрашивать у компьютера дополнительное место во время работы и зачем нужно всегда возвращать его обратно оператором delete.",
       "lemmas": ["new", "delete", "heap", "утечка"],
-      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/14_dynamicMemory.md",
-      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_14_dynamicMemory.md",
+      "file": "WEB/5.2_cybersecurity/cpp_fundamentals/14_dynamic_memory.md",
+      "image": "WEB/5.2_cybersecurity/cpp_fundamentals/covers/cover_14_dynamic_memory.md",
       "wikidata_id": "Q1050390",
       "author": "Тарасов Егор"
     },
